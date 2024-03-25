@@ -12,4 +12,14 @@ GLT has presented the first attempt to accelerate GNN inference. Though promisin
 
 ![image](https://github.com/CunWang520/RGLT/assets/103408498/82872de6-68e5-4ce5-8683-aad42b9826dd)
 
+# Reference 
 
+If you find this work useful, please cite it as:
+
+@article{wang2023brave,
+  title={Brave the wind and the waves: Discovering robust and generalizable graph lottery tickets},
+  author={Wang, Kun and Liang, Yuxuan and Li, Xinglin and Li, Guohao and Ghanem, Bernard and Zimmermann, Roger and Yi, Huahui and Zhang, Yudong and Wang, Yang and others},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
